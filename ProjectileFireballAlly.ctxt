@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ProjectileFireballAlly
+comment1.params=target
+comment1.target=ProjectileFireballAlly(greenfoot.Actor)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

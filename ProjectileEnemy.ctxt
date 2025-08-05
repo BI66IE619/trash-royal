@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ProjectileEnemy
+comment1.params=damage\ speed\ type
+comment1.target=ProjectileEnemy(int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ attackEnemy()
+comment4.params=
+comment4.target=void\ attackZoneEnemy()
+comment5.params=
+comment5.target=void\ vanish()
+numComments=6

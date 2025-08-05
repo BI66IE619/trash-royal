@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MenuButtonDifficulty
+comment1.params=difficulty
+comment1.target=MenuButtonDifficulty(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ arrival()
+comment4.params=
+comment4.target=void\ checkClick()
+numComments=5
