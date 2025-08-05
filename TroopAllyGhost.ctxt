@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=TroopAllyGhost
+comment1.params=elixir\ type\ name
+comment1.target=TroopAllyGhost(int,\ java.lang.String,\ java.lang.String)
+numComments=2

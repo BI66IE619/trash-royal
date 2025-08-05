@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TowerUpCannon
+comment1.params=base
+comment1.target=TowerUpCannon(TowerBaseCannon)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

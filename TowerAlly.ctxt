@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TowerAlly
+comment1.params=
+comment1.target=void\ findEnemy()
+comment2.params=
+comment2.target=void\ findEnemyGround()
+comment3.params=Projectile\ enemy
+comment3.target=void\ createProjectile(Projectile,\ TroopEnemy)
+numComments=4

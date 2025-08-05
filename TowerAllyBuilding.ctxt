@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TowerAllyBuilding
+comment1.params=hp\ attackTime\ range\ decayTime
+comment1.target=TowerAllyBuilding(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ decay()
+numComments=3

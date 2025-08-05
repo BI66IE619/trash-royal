@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=TowerAllyTower
+comment1.params=hp\ attackTime\ range
+comment1.target=TowerAllyTower(int,\ int,\ int)
+numComments=2

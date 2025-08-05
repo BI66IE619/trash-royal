@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=SpellAllyGround
+comment1.params=damage\ radius\ spriteTime\ time\ attackImageNumber\ type
+comment1.target=SpellAllyGround(int,\ int,\ int,\ int,\ int,\ java.lang.String)
+numComments=2
