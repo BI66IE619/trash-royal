@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Card
+comment1.params=cardTroop
+comment1.target=Card(TroopAllyGhost)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=ghost
+comment3.target=void\ checkCard(TroopAllyGhost)
+numComments=4

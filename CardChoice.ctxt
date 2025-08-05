@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CardChoice
+comment1.params=card
+comment1.target=CardChoice(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+numComments=3
