@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TroopEnemyDragonBaby
+comment1.params=
+comment1.target=TroopEnemyDragonBaby()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ findEnemy()
+comment4.params=ally
+comment4.target=void\ createArrow(TroopAlly)
+comment5.params=tower
+comment5.target=void\ createArrow(TowerAlly)
+numComments=6

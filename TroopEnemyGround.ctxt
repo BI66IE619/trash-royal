@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=TroopEnemyGround
+comment1.params=hp\ attack\ range\ speed\ timeSpeed\ attackTime
+comment1.target=TroopEnemyGround(int,\ int,\ int,\ int,\ int,\ int)
+numComments=2
